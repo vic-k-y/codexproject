@@ -9,9 +9,11 @@ Role :
 	I am taking the Role of Peter Pandey as per the challenge, Renowned Data Analyst. Who assigned to peel off the layers of survey Data and derive crucial Information from the responses of the consumers. Figure out the current situation of CodeX and give some actionable Recommendations to Improve their product and The Brand statues.
 
 # QUESTIONS TO BE ANSWERED:
-## 1. Demographic Insights (examples)
+### 1. Demographic Insights (examples)
   a. Who prefers energy drink more? (male/female/non-binary?)
+  
   b. Which age group prefers energy drinks more?
+  
   c. Which type of marketing reaches the most Youth (15-30)?
 
 ### 2. Consumer Preferences:
