@@ -8,7 +8,7 @@ About CodeX :
 Role :
 	I am taking the Role of Peter Pandey as per the challenge, Renowned Data Analyst. Who assigned to peel off the layers of survey Data and derive crucial Information from the responses of the consumers. Figure out the current situation of CodeX and give some actionable Recommendations to Improve their product and The Brand statues.
 
-__QUESTIONS TO BE ANSWERED:__
+# __QUESTIONS TO BE ANSWERED:__
 ### 1. Demographic Insights (examples)
   * Who prefers energy drink more? (male/female/non-binary?)
   *  Which age group prefers energy drinks more?
@@ -42,9 +42,13 @@ __QUESTIONS TO BE ANSWERED:__
   * Which area of business should we focus more on our product development? 
   (Branding/taste/availability)
 
-# some recommendations for CodeX
+# __some recommendations for CodeX__
 ● What immediate improvements can we bring to the product?
 ● What should be the ideal price of our product?
 ● What kind of marketing campaigns, offers, and discounts we can run?
 ● Who can be a brand ambassador, and why?
 ● Who should be our target audience, and why
+
+## Take a look into pdf to see the insights
+#### Click this link to view the Power BI online.
+<a href="https://example.com" target="_blank">Link</a>
