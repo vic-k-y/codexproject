@@ -49,6 +49,6 @@ Role :
 ● Who can be a brand ambassador, and why?
 ● Who should be our target audience, and why
 
-## Take a look into pdf to see the insights
+### Take a look into pdf to see the insights
 #### Click this link to view the Power BI online.
-<a href="https://example.com" target="_blank">Link</a>
+<a href="[https://example.com](https://app.fabric.microsoft.com/view?r=eyJrIjoiMDk5NjM3ZjItODFmZi00ZTFjLWEwNGEtNGM0M2JiNjRkNmNjIiwidCI6IjVlMzVjNWRkLWQzMGUtNGNjZC1hYzhiLWFjYWQ3MzFlMjk1NCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionaabf43a901c4a7ea8b81)https://app.fabric.microsoft.com/view?r=eyJrIjoiMDk5NjM3ZjItODFmZi00ZTFjLWEwNGEtNGM0M2JiNjRkNmNjIiwidCI6IjVlMzVjNWRkLWQzMGUtNGNjZC1hYzhiLWFjYWQ3MzFlMjk1NCIsImMiOjEwfQ%3D%3D&pageName=ReportSectionaabf43a901c4a7ea8b81" target="_blank">Click Here</a>
