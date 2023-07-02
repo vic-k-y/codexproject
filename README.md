@@ -18,27 +18,27 @@ Role :
   * What are the preferred ingredients of energy drinks among respondents?
   *  What packaging preferences do respondents have for energy drinks?
 
-3. Competition Analysis:
+### 3. Competition Analysis:
   * Who are the current market leaders?
   *  What are the primary reasons consumers prefer those brands over ours?
 
-4. Marketing Channels and Brand Awareness:
+### 4. Marketing Channels and Brand Awareness:
 * Which marketing channel can be used to reach more customers?
-  b. How effective are different marketing strategies and channels in reaching our 
+  * How effective are different marketing strategies and channels in reaching our 
   customers?
 
-6. Brand Penetration:
-  a. What do people think about our brand? (overall rating)
-  b. Which cities do we need to focus more on?
+### 5. Brand Penetration:
+* What do people think about our brand? (overall rating)
+*  Which cities do we need to focus more on?
 
-8. Purchase Behavior:
-  a. Where do respondents prefer to purchase energy drinks?
-  b. What are the typical consumption situations for energy drinks among 
+### 6. Purchase Behavior:
+* Where do respondents prefer to purchase energy drinks?
+*  What are the typical consumption situations for energy drinks among 
   respondents?
-  c. What factors influence respondents' purchase decisions, such as price range and 
+* What factors influence respondents' purchase decisions, such as price range and 
   limited edition packaging?
 
-10. Product Development
-  a. Which area of business should we focus more on our product development? 
+### 7. Product Development
+  * Which area of business should we focus more on our product development? 
   (Branding/taste/availability)
 
